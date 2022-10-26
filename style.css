@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Roboto:wght@100&display=swap");
+
+body { 
+  margin: 0;
+  
+}
+
+.data{
+  color: #008080;
+  font-family: "Roboto", Arial, sans-serif; 
+}
+
+h1 {
+  font-family: "Montserrat", Arial, sans-serif;
+}
+
+div {
+  font-family: "Opens Sans", Arial, sans-serif;
+  background-color: #fffafa;
+  width: 70%;
+  height: 100%;
+  margin: 0px auto 0px auto ;
+  margin-bottom: 50px;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.post{
+  
+
+}
+
+/*Cores:
+1. Background dos posts = #fffafa
+
+
